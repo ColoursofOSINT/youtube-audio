@@ -1,4 +1,4 @@
-# Youtube Audio Reworked
+# Youtube Audio Ultimate
 
 This extension is a fork of a no longer maintained [Firefox](https://github.com/animeshkundu/youtube-audio) extension.
 
